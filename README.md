@@ -239,3 +239,46 @@ The system follows a modern full-stack architecture with a React frontend, Node.
               | MySQL 8.4             |
               | hrms-db                |
               +-----------------------+
+
+
+---
+
+# 📸 Application Screenshots
+
+The following screenshots provide a visual overview of the Enterprise HRMS platform and demonstrate the user interface, dashboard, leave management workflow, and role-based user administration.
+
+## 🔐 Login & Authentication
+
+The HRMS login interface provides secure authentication with role-based access control for different user types such as administrators, HR users, and employees.
+
+![Enterprise HRMS Login](screenshots/login.png)
+
+---
+
+## 📊 HRMS Dashboard
+
+The dashboard provides an overview of workforce information, HR activities, statistics, notifications, and key organizational metrics.
+
+![Enterprise HRMS Dashboard](screenshots/dashboard.png)
+
+---
+
+## 🏖️ Leave Management
+
+The Leave Management module allows employees and HR administrators to manage leave applications, approvals, rejections, leave balances, and leave history.
+
+![Enterprise HRMS Leave Management](screenshots/leave-management.png)
+
+---
+
+## 👤 User Management
+
+The User Management module provides administrative control over system users, roles, privileges, activation/deactivation, and access management.
+
+![Enterprise HRMS User Management](screenshots/user-management.png)
+
+---
+
+
+
+
