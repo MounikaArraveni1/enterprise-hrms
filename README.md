@@ -14,7 +14,7 @@ This repository is a **public project showcase only**.
 
 ### HRMS Application
 
-[Open Enterprise HRMS](https://hrms-ufpl.onrender.com)
+[Open Enterprise HRMS](https://hrms-ufp1.onrender.com)
 
 The application is deployed as a cloud-hosted full-stack application.
 
