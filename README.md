@@ -266,7 +266,7 @@ The dashboard provides an overview of workforce information, HR activities, stat
 
 The Leave Management module allows employees and HR administrators to manage leave applications, approvals, rejections, leave balances, and leave history.
 
-![Enterprise HRMS Leave Management](screenshots/leave-management.png)
+![Enterprise HRMS Leave Management](screenshots/leave_management.png)
 
 
 
@@ -274,7 +274,7 @@ The Leave Management module allows employees and HR administrators to manage lea
 
 The User Management module provides administrative control over system users, roles, privileges, activation/deactivation, and access management.
 
-![Enterprise HRMS User Management](screenshots/user-management.png)
+![Enterprise HRMS User Management](screenshots/user_management.png)
 
 
 
