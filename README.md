@@ -213,7 +213,7 @@ The system follows a modern full-stack architecture with a React frontend, Node.
 
 # ☁️ Cloud Architecture
 
-```text
+
                          USERS
                            |
                            v
@@ -241,7 +241,7 @@ The system follows a modern full-stack architecture with a React frontend, Node.
               +-----------------------+
 
 
----
+
 
 # 📸 Application Screenshots
 
@@ -253,7 +253,6 @@ The HRMS login interface provides secure authentication with role-based access c
 
 ![Enterprise HRMS Login](screenshots/login.png)
 
----
 
 ## 📊 HRMS Dashboard
 
@@ -261,7 +260,7 @@ The dashboard provides an overview of workforce information, HR activities, stat
 
 ![Enterprise HRMS Dashboard](screenshots/dashboard.png)
 
----
+
 
 ## 🏖️ Leave Management
 
@@ -269,7 +268,7 @@ The Leave Management module allows employees and HR administrators to manage lea
 
 ![Enterprise HRMS Leave Management](screenshots/leave-management.png)
 
----
+
 
 ## 👤 User Management
 
@@ -277,7 +276,7 @@ The User Management module provides administrative control over system users, ro
 
 ![Enterprise HRMS User Management](screenshots/user-management.png)
 
----
+
 
 
 
